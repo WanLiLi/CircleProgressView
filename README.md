@@ -1,7 +1,7 @@
 # CircleProgressView
 一个简单纯粹的圆形进度条
 
-![circleProgressView.gif](http://upload-images.jianshu.io/upload_images/2249510-f430f17d400d5c2e.gif?imageMogr2/auto-orient/strip)
+![circleProgressView.gif](https://github.com/WanLiLi/CircleProgressView/blob/master/circleProgressView.gif)
 
 
 
