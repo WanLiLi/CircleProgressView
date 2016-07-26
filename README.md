@@ -36,4 +36,5 @@
     
     
     更多用法:
-           <p><a href="http://www.jianshu.com/users/bc35bfa3f3b3/latest_articles/">This link</a>查看更多用法</p>
+         
+           [an example](http://www.jianshu.com/users/bc35bfa3f3b3/latest_articles/ "Title") 
