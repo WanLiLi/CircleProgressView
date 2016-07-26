@@ -14,11 +14,11 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_centerInParent="true"
-        **
+        
         app:c_colorCircle="@color/colorPrimary"
         app:c_colorProgress="@color/colorAccent"
         app:c_strokeWidth="20.0"
-        **/>
+        />
     
     启动：
     一：circle.start(new CircleProgressView.OnProgressListener() {
@@ -36,3 +36,4 @@
     
     
     更多用法:
+           http://www.jianshu.com/p/cbb0bf49084b
