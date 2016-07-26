@@ -36,4 +36,4 @@
     
     
     更多用法:
-           <href a="http://www.jianshu.com/p/cbb0bf49084b">http://www.jianshu.com/p/cbb0bf49084b</href>
+           <p><a href="http://www.jianshu.com/users/bc35bfa3f3b3/latest_articles/">This link</a>查看更多用法</p>
