@@ -36,5 +36,5 @@
     
     
     更多用法:
-         
-           [an example](http://www.jianshu.com/users/bc35bfa3f3b3/latest_articles/ "Title") 
+    
+    http://www.jianshu.com/p/cbb0bf49084b
