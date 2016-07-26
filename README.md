@@ -36,6 +36,11 @@
     
     
     更多用法:
-    
+    This is [an example]http://www.jianshu.com/p/cbb0bf49084b "Title") inline link.
     [This link](http://www.jianshu.com/p/cbb0bf49084b) has no title attribute
+    http://www.jianshu.com/p/cbb0bf49084b
+    
+    http://www.jianshu.com/p/cbb0bf49084b
+    
+    http://www.jianshu.com/p/cbb0bf49084b 
     
